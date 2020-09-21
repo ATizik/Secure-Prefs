@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "28D914359CA51D23C6A20C8CAEE5FE600DB65378" : {
+      "DVTSourceControlBranchIdentifierKey" : "bitcode",
+      "DVTSourceControlLocationRevisionKey" : "fb216e2217d732b058d989d5e3fb177d896bcdaf",
+      "DVTSourceControlBranchOptionsKey" : 0,
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "28D914359CA51D23C6A20C8CAEE5FE600DB65378",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9949A4D-B78D-4942-9757-CF69466E7DCA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "28D914359CA51D23C6A20C8CAEE5FE600DB65378" : "Kissme\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "keychainwrapper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "secureprefs\/library\/keychainwrapper\/keychainwrapper\/keychainwrapper.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ATizik-d4l\/Kissme.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "28D914359CA51D23C6A20C8CAEE5FE600DB65378"
+    }
+  ]
+}
